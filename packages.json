@@ -42,6 +42,11 @@
                 "url": "https://github.com/qfish/XAlign",
                 "description": "An amazing Xcode plugin to align regular code. It can align Xnything in any way you want.",
                 "screenshot": "https://raw.github.com/qfish/XAlign/gh-pages/images/equal.gif"
+            },
+            {
+                "name": "BBUDebuggerTuckAway",
+                "url": "https://github.com/neonichu/BBUDebuggerTuckAway",
+                "description": " Auto-hide the debugger once you start typing in the source code editor."
             }
         ],
         "color_schemes": [],
